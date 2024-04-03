@@ -1,2 +1,2 @@
-# Oblibene-Jidlo
+# Projekt MUJ
  Stranka s oblibenym jidlem
