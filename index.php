@@ -1,19 +1,105 @@
-<!DOCTYPE html>
-<html lang ="cs">
-    <head>
-        <link rel="stylesheet" href=".css/styles.css">
-        <meta charset="UTF - 8">
-        <title>MojeE STRANKA</title>
+    <!DOCTYPE html>
+    <html lang ="cs">
+        <head>
+            <link rel="stylesheet" href=".css/styles.css">
+            <meta charset="UTF - 8">
+            <title>Projekt muj</title>
 
 
-    </head>
+        </head>
 
-    <body>
-        <h1>Moje jídlo</h1>
-        <p>ahoj</p>
+        <body>
+            <div class="head">
+                <?php include 'templates/header.php';?>
+            </div>
 
-    </body>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+            <p>s</p>
+
+
+        </body>
 
 
 
-</html>
+    </html>
