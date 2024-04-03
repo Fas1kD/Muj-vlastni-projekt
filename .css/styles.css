@@ -1,5 +1,26 @@
 
+/*nadpis H1*/
 h1 {
-    text-align: center;
     background-color: brown;
+    padding: 20px 0px;
+    margin-left: 600px;
+    margin-right: 600px;
+    outline: sandybrown solid 8px;
+}
+
+p {
+    text-align: center;
+    
+}
+
+/*Umístění do header: nadpis, menu*/
+.head{
+    margin-top: -20px;
+    padding: 10px 0px;  
+    background-color: rgb(209, 209, 209);
+    align-items: center;
+    color: white;
+    text-align: center;
+    position: fixed;
+    width: 100%;
 }
