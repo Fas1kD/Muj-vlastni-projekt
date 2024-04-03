@@ -1,2 +1,5 @@
 # Projekt MUJ
-projekt muj vlastni
+
+## PHP HTML CSS JS
+
+Můk skvělý úžasný bezchybný projekt
