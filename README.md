@@ -1,2 +1,2 @@
 # Projekt MUJ
- Stranka s oblibenym jidlem
+projekt muj vlastni
