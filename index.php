@@ -8,7 +8,7 @@
 
         </head>
 
-        <body>
+        <body style="background-color: rgb(75, 194, 230);">
             <div class="head">
                 <?php include 'templates/header.php';?>
             </div>
@@ -96,6 +96,10 @@
             <p>s</p>
             <p>s</p>
             <p>s</p>
+
+            <div class="foot">
+                <?php include 'templates/footer.php';?>
+            </div>
 
 
         </body>

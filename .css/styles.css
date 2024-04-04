@@ -8,6 +8,16 @@ h1 {
     outline: sandybrown solid 8px;
 }
 
+h2{
+    text-align: center;
+    font-size: 25px;
+    padding: 20px 0px;
+    background-color: rgb(172, 171, 171);
+    margin-left: 600px;
+    margin-right: 600px;
+    outline: brown solid 4px;
+}
+
 p {
     text-align: center;
     
@@ -23,4 +33,11 @@ p {
     text-align: center;
     position: fixed;
     width: 100%;
+}
+
+.foot{
+    padding: 5px 0px;
+    background-color: rgb(209, 209, 209) ;
+    align-items: center;
+    color: white;
 }
