@@ -13,11 +13,9 @@
                 <?php include 'templates/header.php';?>
             </div>
 
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
+            <?php include '.php/mezery.php';?>
+
+            <p>Život</p>
             <p>s</p>
             <p>s</p>
             <p>s</p>

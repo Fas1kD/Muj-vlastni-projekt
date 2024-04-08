@@ -1,5 +1,5 @@
 # Projekt MUJ
 
-## PHP HTML CSS JS
+## PHP HTML CSS 
 
-Můk skvělý úžasný bezchybný projekt
+Využití komunikace mezi soubory pomocí PHP, použití stylů pomocí CSS, programování v jazyce HTML, programování ve Visual Studio CODE
