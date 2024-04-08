@@ -8,14 +8,24 @@
 
         </head>
 
-        <body style="background-color: rgb(75, 194, 230);">
+        <body style="background-color: white;">
+
+            <div class = "odkz">
+                <?php include 'templates/odkazy.php';?>
+            </div>
+
+
             <div class="head">
                 <?php include 'templates/header.php';?>
             </div>
 
             <?php include '.php/mezery.php';?>
 
+            
+
+
             <p>Život</p>
+
             <p>s</p>
             <p>s</p>
             <p>s</p>
@@ -98,6 +108,7 @@
             <div class="foot">
                 <?php include 'templates/footer.php';?>
             </div>
+
 
 
         </body>

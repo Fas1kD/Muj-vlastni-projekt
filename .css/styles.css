@@ -1,21 +1,21 @@
 
 /*nadpis H1*/
 h1 {
-    background-color: brown;
+    background-color: #83c5be;
     padding: 20px 0px;
     margin-left: 600px;
     margin-right: 600px;
-    outline: sandybrown solid 8px;
+    outline: #006d77 solid 8px;
 }
 
 h2{
     text-align: center;
     font-size: 25px;
     padding: 20px 0px;
-    background-color: rgb(172, 171, 171);
+    background-color: #83c5be;
     margin-left: 600px;
     margin-right: 600px;
-    outline: brown solid 4px;
+    outline: #006d77 solid 4px;
 }
 
 p {
@@ -27,20 +27,75 @@ p {
 .head{
     margin-top: -20px;
     padding: 10px 0px;  
-    background-color: rgb(209, 209, 209);
+    background-color: #d6ccc2;
     align-items: center;
     color: white;
     text-align: center;
     position: fixed;
     width: 100%;
+    margin-left: -8px;
 }
 
 .foot{
     padding: 5px 0px;
-    background-color: rgb(209, 209, 209) ;
+    background-color: #d6ccc2 ;
     align-items: center;
     color: white;
     margin-bottom: -10px;
     margin-right: -10px;
     margin-left: -10px;
 }
+
+.odkz{
+        position: fixed;
+        font-size: 30px;
+        float: left;
+        width: 15%;
+        height: 1000px;
+        /* only for demonstration, should be removed */
+        background: #edede9;
+        padding: 25px ;
+        margin-left: -7px
+}
+
+
+
+
+
+/* Jak vypadá link, odkaz na stránku: https://freefrontend.com/css-link-styles/*/
+a {
+    background-image: linear-gradient(
+      to right,
+      #54b3d6,
+      #54b3d6 50%,
+      #000 50%
+    );
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  a:before{
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  a:hover {
+   background-position: 0;
+  }
+  
+  a:hover::before{
+    width: 100%;
+  }
