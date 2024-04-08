@@ -8,9 +8,9 @@ h1 {
     outline: #006d77 solid 8px;
 }
 
-h2{
+h2{ 
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     padding: 20px 0px;
     background-color: #83c5be;
     margin-left: 600px;
@@ -66,8 +66,8 @@ p {
 a {
     background-image: linear-gradient(
       to right,
-      #54b3d6,
-      #54b3d6 50%,
+      #83c5be,
+      #83c5be 50%,
       #000 50%
     );
     background-size: 200% 100%;
@@ -82,7 +82,7 @@ a {
   
   a:before{
     content: '';
-    background: #54b3d6;
+    background: #83c5be;
     display: block;
     position: absolute;
     bottom: -3px;
