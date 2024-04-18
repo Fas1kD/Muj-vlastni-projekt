@@ -19,6 +19,10 @@
                 <?php include 'templates/header.php';?>
             </div>
 
+            <div class ="reklama_umisteni">
+                <img src="data/img/gooning.png" alt="reklama jedna">
+            </div>
+
             <?php include '.php/mezery.php';?>
 
 
