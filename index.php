@@ -8,10 +8,16 @@
 
         </head>
 
-        <body style="background-color: white;">
+        <body style="background-color: #edf6f9;">
 
             <div class = "odkz">
                 <?php include 'templates/odkazy.php';?>
+            </div>
+
+            <div class ="reklama_umisteni">
+                <div class = "reklama2">
+                    <img src="data/img/gooning.png" alt="reklama jedna">
+                </div>
             </div>
 
 
@@ -19,9 +25,7 @@
                 <?php include 'templates/header.php';?>
             </div>
 
-            <div class ="reklama_umisteni">
-                <img src="data/img/gooning.png" alt="reklama jedna">
-            </div>
+            
 
             <?php include '.php/mezery.php';?>
 
@@ -29,86 +33,89 @@
             
 
 
-            <p>Život</p>
+            <div class ="textnastrance">
+                
+                <p>Život</p>
 
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
-            <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+                <p>s</p>
+            </div>
 
             <div class="foot">
                 <?php include 'templates/footer.php';?>
