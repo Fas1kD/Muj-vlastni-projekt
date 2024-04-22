@@ -12,7 +12,7 @@ h1 {
 
 h2{ 
     text-align: center;
-    font-size: 20px;
+    font-size: 25px;
     padding: 20px 0px;
     background-color: #83c5be;
     margin-left: 600px;
@@ -23,6 +23,13 @@ h2{
 h3{
   text-align: left;
   margin-left: 10px;
+  font-size: 25px;
+}
+
+h4{
+  text-align: left;
+  margin-left: 10px;
+  font-size: 20px;
 }
 
 .textnastrance{
@@ -89,6 +96,12 @@ h3{
   outline:#e29578 solid 8px ;
 }
 
+.reklama3 {
+  margin-top: 50px;
+  position: sticky;
+  outline:#e29578 solid 8px ;
+}
+
 
 
 /*Textpvá pole*/
@@ -97,13 +110,17 @@ h3{
   padding: 5px;
   margin: 15px;
   position: relative;
-  left: 400px;
-  width: 200px;
+  left: 300px;
+  width: 1000px;
   border: 3px solid #83c5be;
-  p{
-    text-align: left;
-    margin-left:20px;
-  }
+  overflow: auto;
+
+
+}
+.text1 p{
+  text-align: left;
+  margin-left:20px;
+  margin-right: 20px;
 }
 
 
@@ -147,3 +164,36 @@ a {
   a:hover::before{
     width: 100%;
   }
+
+
+  /*Obrázky*/
+  .img1 {
+    float: right;
+    position: static;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+
+  .img2 {
+    outline: #000 solid 2px;
+  }
+
+  .img3{
+    align-items: center;
+    margin:10px;
+  }
+
+
+  
+
+  img {
+    transition: .4s;
+  }
+  img:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2);   }
+  
+ 
