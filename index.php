@@ -8,7 +8,7 @@
 
         </head>
 
-        <body style="background-color: #edf6f9;">
+        <body style="background-color: white;">
 
             <div class = "odkz">
                 <?php include 'templates/odkazy.php';?>
@@ -16,8 +16,21 @@
 
             <div class ="reklama_umisteni">
                 <div class = "reklama2">
-                    <img src="data/img/gooning.png" alt="reklama jedna">
+                    <a href="podstranka.php">
+                        <img src="data/img/gooning.png" alt="reklama jedna">
+                    </a>
                 </div>
+
+                <div class ="reklama2">
+                    <img src ="data/img/krizek.png" alt="prazdno1">
+                </div>
+
+                <div class ="reklama2">
+                    <img src ="data/img/krizek.png" alt="prazdno1">
+                </div>
+
+                
+
             </div>
 
 
@@ -35,15 +48,20 @@
 
             <div class ="textnastrance">
                 
-                <p>Život</p>
 
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
+                <div class="text1"> 
+                    <h3>Život</h3>
+
+                    <p>s</p>
+                    <p>s</p>
+                    <p>s</p>
+                    <p>s</p>
+                    <p>s</p>
+                    <p>s</p>
+                </div>
+                <div class="text1">
+                    <p>sssssssssssssssssssssssssss</p>
+                </div>
                 <p>s</p>
                 <p>s</p>
                 <p>s</p>

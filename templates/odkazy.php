@@ -9,19 +9,22 @@
     <body>
         <?php include '.php/mezery.php';?>
 
-        <a href="data/documents/zpracovani.html">Zpracovani udaju</a>
+        <a href="index.php">Úvodní stránka</a>
         <br>
         <br>
-        <a href="data/documents/zpracovani.html">Staránka2</a>
+        <a href="nemcicky.php">Němčičky</a>
         <br>
         <br>
-        <a href="data/documents/zpracovani.html">Staránka3</a>
+        <a href="podstranka2.php">Staránka3</a>
         <br>
         <br>
-        <a href="data/documents/zpracovani.html">Staránka4</a>
+        <a href="podstranka3.php">Staránka4</a>
         <br>
         <br>
         <a href="data/documents/zpracovani.html">Staránka5</a>
+        <br>
+        <br>
+        <a href="data/documents/zpracovani.html">Zpracovani udaju</a>
 
 
 

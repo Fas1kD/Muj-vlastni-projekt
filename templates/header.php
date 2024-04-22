@@ -6,7 +6,7 @@
     </head>
 
     <body>
-        <h1>Muj skvely projekt</h1>
+        <h1>MEDLOV a jeho krásné okolí</h1>
 
 
 
