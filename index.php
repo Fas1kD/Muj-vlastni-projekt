@@ -10,6 +10,8 @@
 
         <body style="background-color: white;">
 
+            <script src="js/script.js"></script>
+
             <div class = "odkz">
                 <?php include 'templates/odkazy.php';?>
             </div>
@@ -71,6 +73,7 @@
                     <p>Medlov se nachází na Jižní Moravě, konkrétně okres Brno-venkov, nachází se přibližně 20 kilometrů od Brna</p>
                     <p>Medlov leží kousek od dálníce D52, která vede z Brna do Pohořelic</p>
                     <img class="img2" src="data/img/poloha.png" alt="MedlovPoloha1" width="700" height="400"> 
+                    <br>
                 </div>
 
                 <div class="text1">

@@ -53,6 +53,10 @@
                 <div class="foot">
                     <?php include 'templates/footer.php';?>
                 </div>
+
+                <script>
+                    console.log('hola');
+                </script>
     </body>
 
 

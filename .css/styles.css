@@ -110,7 +110,7 @@ h4{
   padding: 5px;
   margin: 15px;
   position: relative;
-  left: 300px;
+  left: 400px;
   width: 1000px;
   border: 3px solid #83c5be;
   overflow: auto;
@@ -178,11 +178,15 @@ a {
 
   .img2 {
     outline: #000 solid 2px;
+    margin-top: 40px;
+    margin-bottom: 40px;
   }
 
   .img3{
     align-items: center;
     margin:10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
   }
 
 
@@ -192,8 +196,11 @@ a {
     transition: .4s;
   }
   img:hover {
-    -ms-transform: scale(1.2); /* IE 9 */
-    -webkit-transform: scale(1.2); /* Safari 3-8 */
-    transform: scale(1.2);   }
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1);   }
   
+
+
+  .alert { padding: 20px; background-color: #f44336; /* Red */ color: white; margin-bottom: 15px;}
  
