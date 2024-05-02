@@ -15,10 +15,10 @@
         <a href="nemcicky.php">Němčičky</a>
         <br>
         <br>
-        <a href="podstranka2.php">Staránka3</a>
+        <a href="podstranka3.php">Staránka3</a>
         <br>
         <br>
-        <a href="podstranka3.php">Staránka4</a>
+        <a href="podstranka2.php">Cesta do Medlova</a>
         <br>
         <br>
         <a href="data/documents/zpracovani.html">Staránka5</a>
