@@ -23,9 +23,7 @@
                     <img src ="data/img/krizek.png" alt="prazdno1">
                 </div>
 
-                <div class ="reklama2">
-                    <img src ="data/img/krizek.png" alt="prazdno1">
-                </div>
+              
 
                 
 

@@ -24,8 +24,10 @@
                     </a>
                 </div>
 
-                <div class ="reklama2">
-                    <img src ="data/img/krizek.png" alt="prazdno1">
+               
+
+                <div class ="reklama3">
+                    <img src ="data/img/krizek.png" alt="prazdno2">
                 </div>
 
                 <div class ="reklama3">
@@ -80,80 +82,10 @@
                 <div class="text1">
                     <h4>Okolní Obce</h4>
                     <p>V okolí medlova se nachází města jako jsou: Pohořelice, Židlchovice, Rajhrad a 20 kilometrů od Medlova se nachází samotné Brno</p>
-                    <img class="img3" src="data/img/poloha2.png" alt="Poloha2" width="800" height="750">
+                    <p>Mezi konkrétní obce těsně vedle Medlova patří například: <br> Němčičky <br> Malešovice <br> Smolín <br> Ledce <br> a další.. </p>
+                    <img class="img3" src="data/img/poloha2.png" alt="Poloha2" width="800" height="700">
                 </div>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-                <p>s</p>
-            </div>
+      
 
             <div class="foot">
                 <?php include 'templates/footer.php';?>

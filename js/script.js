@@ -1,2 +1,4 @@
-alert('Ahoj po kliknutí se ti objeví moje úžásná stránka, jsi připraven? ');
-alert(Date());
+
+alert('Po kliknutí na "OK" souhlasíte se zpracováním osobních údajů uživatele ');
+
+

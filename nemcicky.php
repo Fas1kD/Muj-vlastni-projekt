@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!--FOTBAL-->
 <html lang ="cs">
     <head>
         <link rel="stylesheet" href=".css/styles.css">
@@ -23,9 +24,7 @@
                     <img src ="data/img/krizek.png" alt="prazdno1">
                 </div>
 
-                <div class ="reklama2">
-                    <img src ="data/img/krizek.png" alt="prazdno1">
-                </div>
+               
 
                 
 
@@ -44,7 +43,7 @@
                 
 
                 <div class="text1"> 
-                    <h3>Němčičky</h3>
+                    <h3>FOTBAL</h3>
                     <p>s</p>
                 </div>
 

@@ -12,7 +12,7 @@
         <a href="index.php">Úvodní stránka</a>
         <br>
         <br>
-        <a href="nemcicky.php">Němčičky</a>
+        <a href="nemcicky.php">Fotbal</a>
         <br>
         <br>
         <a href="podstranka3.php">Staránka3</a>
@@ -21,10 +21,15 @@
         <a href="podstranka2.php">Cesta do Medlova</a>
         <br>
         <br>
-        <a href="data/documents/zpracovani.html">Staránka5</a>
-        <br>
-        <br>
         <a href="data/documents/zpracovani.html">Zpracovani udaju</a>
+        <br>
+        <br>
+        <button onclick="myFunction()">Jaký je den?</button>
+        <script>
+            function myFunction() {
+        confirm(Date());
+}
+</script>
 
 
 
