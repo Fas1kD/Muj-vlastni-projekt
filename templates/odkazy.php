@@ -24,7 +24,17 @@
         <a href="data/documents/zpracovani.html">Zpracovani udaju</a>
         <br>
         <br>
-        <button onclick="myFunction()">Jaký je den?</button>
+        
+        <button class="button-24" role="button" onclick="myFunction()">Jaký je dnes den</button>
+
+        <br>
+        <br>
+
+        <?php include '.php/mezery.php';?>
+
+        <br>
+        <br>
+        
         <script>
             function myFunction() {
         confirm(Date());
