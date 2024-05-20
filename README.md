@@ -6,6 +6,8 @@
 
 ### V data\documets\popis.txt se nachází popis projektu
 
+## 
+
 index.php - zde se nachází kód úvodní stránky
 nemcicky.php - zde se nachází kód stránky s oklními obcemi
 podstranka2.php - zde se nachází kód stránky JAK DO MEDLOVA?
