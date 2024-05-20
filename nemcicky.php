@@ -4,7 +4,7 @@
     <head>
         <link rel="stylesheet" href=".css/styles.css">
         <meta charset="UTF - 8">
-        <title>ahoj</title>
+        <title>Okolni obce</title>
     </head>
 
     <body style="background-color: white;">
@@ -43,7 +43,7 @@
                 
 
                 <div class="text1"> 
-                    <h3>FOTBAL</h3>
+                    <h3>OKOLNÍ OBCE</h3>
                     <p>s</p>
                 </div>
 

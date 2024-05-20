@@ -1,0 +1,35 @@
+Čas: 2024-05-20 07:24:46
+Jméno: fs
+E-mail: afas@sfa.cs
+Text: faa
+
+Čas: 2024-05-20 07:26:02
+Jméno: fs
+E-mail: afas@sfa.cs
+Text: faa
+
+Čas: 2024-05-20 07:26:05
+Jméno: fs
+E-mail: afas@sfa.cs
+Text: faa
+
+Čas: 2024-05-20 07:37:25
+Jméno: život
+E-mail: ne@s.cz
+Text: ahoj dnes je krasny dne
+
+Čas: 2024-05-20 07:52:53
+Jméno: hoj
+E-mail: ne@s.uu
+Text: fsfafsa
+
+Čas: 2024-05-20 07:53:19
+Jméno: hoj
+E-mail: ne@s.uu
+Text: fsfafsa
+
+Čas: 2024-05-20 07:57:37
+Jméno: sss
+E-mail: ssss@ss.s
+Text: sss
+

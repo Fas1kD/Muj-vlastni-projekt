@@ -6,7 +6,7 @@
     </head>
 
     <body>
-        <h1>MEDLOV a jeho krásné okolí</h1>
+        <h1>MEDLOV a zajímavosti</h1>
 
 
 

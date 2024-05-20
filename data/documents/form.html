@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Uložení informací do souboru</title>
+    <style>
+        body {
+          background-color: lightblue;
+        }
+        
+        .head {
+            margin-top: -20px;
+            padding: 10px 0px;  
+            background-color: #d6ccc2;
+            align-items: center;
+            color: white;
+            text-align: center;
+            position: fixed;
+            width: 100%;
+            margin-left: -8px;
+            z-index: 2000000000;
+        }
+
+        h1 {
+            background-color: #83c5be;
+            padding: 20px 0px;
+            margin-left: 600px;
+            margin-right: 600px;
+            outline: #006d77 solid 8px;
+            font-style: italic;
+
+        }
+        .foot{
+            bottom: 0px;
+            position: fixed;
+            padding: 5px 0px;
+            background-color: #d6ccc2 ;
+            align-items: center;
+            color: white;
+            margin-bottom: -10px;
+            margin-right: -10px;
+            width: 100%;
+
+            margin-left: -10px;
+        }
+        h2{ 
+            text-align: center;
+            font-size: 25px;
+            padding: 20px 0px;
+            background-color: #83c5be;
+            margin-left: 700px;
+            margin-right: 700px;
+            outline: #006d77 solid 4px;
+        }
+        
+        p {
+          font-family: verdana;
+          font-size: 20px;
+        }
+
+        #para1 {
+        background-color: #edede9;
+        text-align: center;
+        }
+
+        </style>
+</head>
+
+<body style="background-color: #edf6f9;">
+
+    <div class="head">
+        <h1>KONTAKTY</h1>
+    </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+
+    <p id="para1">Ahoj kamaráde, jestli nám chceš zaslat nějakou zprávu, nebo připomínku, či nápad ke zlepšení naší stránky stačí dole vyplnit formulář s tvým jménem a e-mailem a následně jen do posledního políčka napsat co máš na srdci a naši odborníci ti třeba odpoví!</p>
+
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <form action="save_text.php" method="post">
+        <label for="userName">Jméno:</label><br>
+        <input type="text" id="userName" name="userName" required><br><br>
+        
+        <label for="userEmail">E-mail:</label><br>
+        <input type="email" id="userEmail" name="userEmail" required><br><br>
+        
+        <label for="userText">Zde zadejte svůj text a vaše poznámky a připomínky pro nás:</label><br>
+        <textarea id="userText" name="userText" rows="10" cols="30" required></textarea><br><br>
+        
+        <input type="submit" value="Odeslat">
+    </form>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <p id="para1"> A kdyby si nám chtěl zastal e-mail tak můžeš zde: email.email@email.com</p> 
+
+    <div class="foot">
+        <h2>5 - Dominik | email.email@email.com</h2>
+    </div>
+</body>
+</html>
