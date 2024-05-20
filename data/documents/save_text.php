@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         fclose($fileHandle);
         
         // Informování uživatele o úspěchu
-        echo "Data byla úspěšně uložena.";
+        echo "Zpráva byla úspěšně zaznaménana.";
     } else {
         // Informování uživatele o neúspěchu
         echo "Chyba při otevírání souboru.";

@@ -46,6 +46,11 @@
                     <p>s</p>
                 </div>
 
+                <script src="js/main.js"></script>
+                <body onload="checkCookie()"></body>
+
+
+
                 </div>
 
                 <div class="foot">
