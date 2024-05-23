@@ -28,7 +28,11 @@
                     <img src ="data/img/krizek.png" alt="prazdno1">
                 </div>
 
-                
+                <?php include '.php/mezery.php';?>
+                <?php include '.php/mezery.php';?>
+                <?php include '.php/mezery.php';?>
+
+
 
                 
 
@@ -77,6 +81,7 @@
                     <p>Do Medlova nezajíždí úplně v celý den, ale pokaždé zastavuje ve vestici Němčičky, vzdáledné asi 3 kilometry pěšky od Medlova</p>
                     <p>Do Modřic z Medlova jezdí jen v raních hodinách</p>
                     <img class="img2" src="data/img/5131.png" alt="MedlovPoloha1" width="900" height="550"> 
+                    <?php include '.php/mezery.php';?>
                     
                 </div>
 

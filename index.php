@@ -27,13 +27,19 @@
                
 
                 <div class ="reklama3">
-                    <img src ="data/img/krizek.png" alt="prazdno2">
+                    <a href="data/img/154..png">
+                        <img src ="data/img/krizek.png" alt="prazdno2">
+                    </a>
                 </div>
 
                 <div class ="reklama3">
                     <img src ="data/img/krizek.png" alt="prazdno2">
                 </div>
 
+                <br>
+                <br>
+                <br>
+                <br>
                 
 
             </div>
@@ -84,7 +90,14 @@
                     <p>V okolí medlova se nachází města jako jsou: Pohořelice, Židlchovice, Rajhrad a 20 kilometrů od Medlova se nachází samotné Brno</p>
                     <p>Mezi konkrétní obce těsně vedle Medlova patří například: <br> Němčičky <br> Malešovice <br> Smolín <br> Ledce <br> a další.. </p>
                     <img class="img3" src="data/img/poloha2.png" alt="Poloha2" width="800" height="700">
+                    <br>
+                    <br>
+                    <br>
                 </div>
+                <?php include '.php/mezery.php';?>
+                <?php include '.php/mezery.php';?>
+
+
       
 
             <div class="foot">
