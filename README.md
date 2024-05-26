@@ -1,4 +1,4 @@
-# Projekt MUJ| 5 Dominik
+# Projekt MUJ - Medlov| 5 Dominik
 
 ## http://muj-vlastni-projekt-medlov.free.nf
 
