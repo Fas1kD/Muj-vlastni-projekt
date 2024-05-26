@@ -1,6 +1,6 @@
 # Projekt MUJ| 5 Dominik
 
-## [@zde bude odkaz na stranku]
+## http://muj-vlastni-projekt-medlov.free.nf
 
 ### Využití komunikace mezi soubory pomocí PHP, použití stylů pomocí CSS, programování webových stránek v jazyce HTML, využití technologie js při vytvoření tlačítka a vyskakujícho okna, využití php při vytvoření formuláře a jeho následné zasýlání do soubru, programování v softwaru Visual Studio CODE
 
