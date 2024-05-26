@@ -27,10 +27,10 @@
                 <div class ="reklama3">
                     <img src ="data/img/krizek.png" alt="prazdno2">
                 </div>
-
-               
-
-                
+            
+                <?php include '.php/mezery.php';?>
+                <?php include '.php/mezery.php';?>
+                <?php include '.php/mezery.php';?>
 
             </div>
 
@@ -76,6 +76,16 @@
                     <br>
                     <br>
                 </div>
+
+                <div class="text1">
+                    <h4>Okolní vesnice</h4>
+                    <p>Mezi nejbližší obce vzdálené od Medlova patří asi 2 kilometry vzdálené Němčičky, 3-4 kilometry vzdálené Kupařovice a Malešovice. <br> Další poměrně blízké jsou Smolín, Cvrčovice a Ledce</p>
+                    <p>Dále se zde nachází ještě spousta dalších jako jsou například Loděnice, Pravlov, Jezeřany, Bratčice a spousta dalších</p>
+                    <img class="img2" src="data/img/medlov.png" alt="FotkaMedlov" width="700" height="400">
+                    <p>https://cs.wikipedia.org/wiki/Medlov_(okres_Brno-venkov)</p>
+                </div>
+                <?php include '.php/mezery.php';?>
+
 
 
 

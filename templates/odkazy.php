@@ -19,7 +19,7 @@
         <a href="podstranka2.php">Cesta do Medlova</a>
         <br>
         <br>
-        <a href="podstranka3.php">Staránka3</a>
+        <a href="podstranka3.php">Fotbal</a>
         <br>
         <br>
         <a href="data/documents/zpracovani.html">Zpracování údajů</a>
