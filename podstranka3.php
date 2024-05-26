@@ -3,7 +3,8 @@
     <head>
         <link rel="stylesheet" href=".css/styles.css">
         <meta charset="UTF - 8">
-        <title>ahoj</title>
+        <link rel="icon" type="image/x-icon" href="data/img/logo-medlov1.png">
+        <title>Fotbal</title>
     </head>
 
     <body style="background-color: white;">

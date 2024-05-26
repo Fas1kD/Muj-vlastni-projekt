@@ -4,6 +4,7 @@
     <head>
         <link rel="stylesheet" href=".css/styles.css">
         <meta charset="UTF - 8">
+        <link rel="icon" type="image/x-icon" href="data/img/logo-medlov1.png">
         <title>Okolni obce</title>
     </head>
 
