@@ -19,7 +19,7 @@
 
             <div class ="reklama_umisteni">
                 <div class = "reklama2">
-                    <a href="podstranka.php">
+                    <a href="http://epickapavelstranka.rf.gd/?i=1">
                         <img src="data/img/gooning.png" alt="reklama jedna">
                     </a>
                 </div>

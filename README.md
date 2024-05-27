@@ -11,18 +11,17 @@
 index.php - zde se nachází kód úvodní stránky
 nemcicky.php - zde se nachází kód stránky s oklními obcemi
 podstranka2.php - zde se nachází kód stránky JAK DO MEDLOVA?
-podstranka3.php - zde se nenachází nic zatím :D
+podstranka3.php - zde se nenachází podstárnka s Fotbalem
 
 templates/footer.php - spodek stránky
 templates/header.php - nadpis stránky
 templates/odkazy.php - menu stránky
 
 js/script.js - vyskakující okno na úvodní sránce
+js/script.js - okno s cookies
 
-data/documents - zde se nachází poznámky a zpracování.html - zde se nachází zpracování osobních údajů + neplatné kontaktní údaje!!!
+data/documents - zde se nachází poznámky a dokumenty + formulář a databáze
 data/img - zde se nachází obrázky
-
-data/documents - soubory form.html, save_text.php, user_data.txt - zde se nachází formulář a jeho následné ukládání zadaných údajů do .txt souboru
 
 .php - zde se nachází užitečné funkce
 

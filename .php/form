@@ -1,2 +1,2 @@
-Formulář je uložen v: /data/documents/save_text.php a /data/documents/form.html a ukládá dané údaje do use_text.txt
+Formulář je uložen v: /data/documents/save_text.php a /data/documents/form.html a ukládá dané údaje do user_data.txt
 je to z důvodu funkčnosti, za jiných okolností by se .php soubor nacházel v /.php
