@@ -1,0 +1,128 @@
+
+PROJEKT MEDLOV | 5 Fasora
+
+----------------------------------------------
+
+http://muj-vlastni-projekt-medlov.free.nf/
+
+----------------------------------------------
+
+Můj projek o Medlovu a jeho zajímvasoteh, jako jsou okolní obce, cesta do Medlova, něco z málo o Medlovu a následně kontaktní údaje na nás.
+
+----------------------------------------------
+
+Použité funce:
+
+HTML - jazyk v kterém je vytvořený základ mé stránky
+PHP - využití pro komunikaci mezi soubory (header, footer, odkazy) /templates/... + funkce v /.php/... (soubory s příponou .php) 
+CSS - využití ve stylování, designu a celkovém vzhledu a uspořádání stránky - /.css/styles.css
+JS - využití při vytváření vyskakujích oken s úvodním textem při přejití na stránku, následně při kliknutní na stránku "Fotbal" se vám oběví okno s cookies, které si zapamatuje vaše jméno, a pak tlačítko "jaký je den" které vypíše jaká je dnes den a čas, soubory se nachází v /js/... a jeden script přímo v souboru.
+
+----------------------------------------------
+
+Využitý software:
+
+Program - Visual Studio Code
+GitHub desktop - pro download a upload změn v projekt na GitHub
+GitHub - zde se nachází kód mé stránky
+InfinityFree - hosting stránky
+
+----------------------------------------------
+
+Fotky a odkazy:
+
+Obrázky a fotky - většinou stažené z internetu a u některých jsou uvedené Obrázky
+Odkazy - směřují převážně na oficiální stránky obcí a nebo na zdroje fotek
+
+----------------------------------------------
+
+Struktura stránky:
+
+STRÁNKA NENÍ RESPONZIVNÍ NA MOBILU A NA NĚKTERÝCH ROZLIŠENÍCH !!!
+Header - zde se nachází nadpis stránky (horní část stránky)
+Odkazy - zde se nachází menu s odkazy na jednotlivé podstránky + tlačítko (levá část stránky)
+Footer - zde se nachází spodek stránky s mím jménem číslem a NEPLATNÍMI ! kontaktními údaji  (spodek stránky)
+Reklamy - zde se nachází prostor kde je možné si pronajmout místo pro reklamu, zatím se zde nachází jedna reklama ktéra směřuje na stránku mého spolužáka, kódy reklam se nachází na jednotlivích stránkách/podstránkách v kódu
+Zbytek stránky - zde se nachází orámovaný text společně s obrázky
+
+----------------------------------------------
+
+Struktura projektu (souborů)
+
+/.css/styles.css - zde se nachází styly, design a vzhled webové stránky (Stránka NENÍ RESPONZIVNÍ na mobilu a v některých prohlížečích)
+
+/.php/form - téměř prázdný soubor
+/.php/mezery.php - zde se nachází funkce s několika mezerami
+/.php/obsah.php - prázdný soubor
+
+/data/documents/idk/poznamky.txt - zde se nachází poznámky s odkazy na stránky které jsou použil při práci
+/data/documents/idk/user_texts.txt - původní databáze, NEFUNKČNÍ!, funkční - /data/documents/user_data.txt
+
+/data/documents/from.html - zde se nachází stránka s kódem formuláře, která komunikuje s databázý (za data bázy je považován textový soubor user_data.txt) a s save_text.php kde je kód pro ukládání do soboru (databáze)
+/data/documents/popis.txt - zde se nachází podrobný popis mé stránky, soboru a práce
+/data/documents/save_text.php - zde se nachází php kód pro ukládnání dat s formuláře z form.html do textového souboru (user_data.txt) který funguje jako moje databáze
+/data/documents/zpracovani.html - zde se nachází podstránka se zpracováním osobních dokumentů uživatele
+
+/data/documents/img/154..png - jízdní řád autobusu 154
+/data/documents/img/504.png - jízdní řád autobusu 504
+/data/documents/img/5131.png - jízdní řád autobusu 513
+/data/documents/img/5132.png - jízdní řád autobusu 513
+/data/documents/img/fotbal.png - členové medlovského fotbalového klubu 2023
+/data/documents/img/gooning.png - obrázek pro reklamu od mého spolužáka
+/data/documents/img/imagesjpg - znak obce Židlochovice
+/data/documents/img/krizek.png - obrázek pro místo pro reklamu, které není pronajaté (je prázdné)
+/data/documents/img/logo-Medlov1.png - znak obce Medlov
+/data/documents/img/medlov.png - fotka z Medlova
+/data/documents/img/poho.jpg - znak obce Pohořelice
+/data/documents/img/poloha.png - poloha Medlova obrázek č.1
+/data/documents/img/poloha2.png - poloha Medlova obrázek č.2
+/data/documents/img/rajhrad1.jpg - znak obce Rajhrad
+/data/documents/img/tabulka.png - obrázek tabulky medlovského fotbalvého týmu umístěný na oficiální stránce fotbalu jihomoravského kraje okres Brno-venkov
+
+/js/main.js - javascript kód pro cookies funkci, tato funkce je volaná na podstránce "podstranka3.php ("Fotbal")", kód pochází převážně z CHATBOTA
+/js/script.js - javascript kód s vyskakujícím oknem na úvodní stránce, alert se souhlasem o zpracovaní osobních údajů
+
+/templates/footer.php - zde se nachází spodek stránky s mím jménem, pořadovým číslem a NEPLATNOU! e-mailovou adresou
+/templates/header.php - zde se nachází hlavička stránky s nadpisem
+/templates/odkazy.php - zde se nachází menu s odkazy na jednotlivé podstránky (levá část stránky)
+
+/.gitattributes - nevím co to je?
+
+/index.php - úvodní stránka 
+/nemcicky.php - podstránka s okolními obcemi
+/podstranka2.php - podstránka s cestou do Medlova
+/podstranka3.php - podstránka s fotbalem
+
+/README.md - readme soubor s popis na GitHubu
+
+----------------------------------------------
+
+Využití jednotlivích funkcí:
+
+HTML - programovací jazyk (form.html, zpracovani.html)
+PHP - komunikace mezi soubory(index.php - header.php ....), formulář(save_text.php - user_data.txt - form.html)
+CSS - stylování (styles.css - většina .php stránek)
+JS - scripty na stránkých (main.js - podstranka3.php ....)
+
+mezery.php - využití jako mezeri na stránkách
+save_text.php - využití v formuláři
+reklamy se nachází na jednotlivích stránkách v kódu
+
+----------------------------------------------
+
+Práce (Závěr):
+
+Na projektu jsem strávil poměrně dost času netroufnu si říct kolik přesně, ale rozhodně to nebylo málo, pracoval jsem na něj od dne zadání a to i to doma o svém volném času, 
+naučil jsem se spoustu nových věcí, odhalil nové funkce a nabil nových zkušeností, rozhodně mám ještě co zlepčovat a co se učit.
+Jsem spokojen se svou prací, i když by se dalo ještě spoustu věcí zlepšovat.
+Obrázky nejsou moje vlastní, pochází z internetu.
+Věči na mé práce je napsána mnou samým, občas jsem si řekl o pomoc svých spolužáků a občas hledal na internetu, s pár problémy mi pomohl i chatGPT.
+Jsem hrdný na svou prácí a jsem rád že jsem ji uskutečnil.
+
+----------------------------------------------
+
+Dominik Fasora | 5 | Závěrečný projekt | Medlov a zajímavosti | http://muj-vlastni-projekt-medlov.free.nf/
+
+
+
+

@@ -4,6 +4,7 @@
     <head>
         <link rel="stylesheet" href=".css/styles.css">
         <meta charset="UTF - 8">
+        <link rel="icon" type="image/x-icon" href="data/img/logo-medlov1.png">
         <title>Medlov-cesta</title>
     </head>
 
@@ -15,7 +16,7 @@
 
             <div class ="reklama_umisteni">
                 <div class = "reklama2">
-                    <a href="podstranka.php">
+                    <a href="http://epickapavelstranka.rf.gd/?i=1">
                         <img src="data/img/gooning.png" alt="reklama jedna">
                     </a>
                 </div>
@@ -28,7 +29,11 @@
                     <img src ="data/img/krizek.png" alt="prazdno1">
                 </div>
 
-                
+                <?php include '.php/mezery.php';?>
+                <?php include '.php/mezery.php';?>
+                <?php include '.php/mezery.php';?>
+
+
 
                 
 
@@ -77,8 +82,10 @@
                     <p>Do Medlova nezajíždí úplně v celý den, ale pokaždé zastavuje ve vestici Němčičky, vzdáledné asi 3 kilometry pěšky od Medlova</p>
                     <p>Do Modřic z Medlova jezdí jen v raních hodinách</p>
                     <img class="img2" src="data/img/5131.png" alt="MedlovPoloha1" width="900" height="550"> 
+                    <?php include '.php/mezery.php';?>
                     
                 </div>
+                
 
 
 
